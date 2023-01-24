@@ -8,6 +8,14 @@ private void tc1() {
 
 }private void tc3() {
 	// TODO Auto-generated method stub
+}private void tc4() {
+	// TODO Auto-generated method stub
+
+}private void tc5() {
+	// TODO Auto-generated method stub
+
+}private void tc6() {
+	// TODO Auto-generated method stub
 
 }
 }
